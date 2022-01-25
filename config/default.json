@@ -1,0 +1,4 @@
+{
+    "mongoURI" :"mongodb+srv://brad:brad@cluster0.n2flo.mongodb.net/Cluster0?retryWrites=true&w=majority",
+    "jwtSecret":"sl_myJwtSecret"
+}
